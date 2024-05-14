@@ -1,5 +1,5 @@
-github.com/Potsdam-Sensors/waveshare-lte-hat-pi/wavesharecomm v0.0.0-20240510194031-3ffedd1bf6dc h1:JICGrxKc1m8oOio8+iiDgGbWu50Hxlb4jC45/qLE6bg=
-github.com/Potsdam-Sensors/waveshare-lte-hat-pi/wavesharecomm v0.0.0-20240510194031-3ffedd1bf6dc/go.mod h1:+5SEEG6xpWFWiX6BCTyb7lb1n45yQgxiBxbuP3Tlnd4=
+github.com/Potsdam-Sensors/waveshare-lte-hat-pi/wavesharecomm v0.0.0-20240514150704-531c89ae3ce8 h1:MG3i5V/KXAbYb3H76WaIJ/klNNJw8spW4DLD/qgvxRY=
+github.com/Potsdam-Sensors/waveshare-lte-hat-pi/wavesharecomm v0.0.0-20240514150704-531c89ae3ce8/go.mod h1:PzHi1zKa4/J7l/spZRpITvn0FZoQZ75pk/A2ONGYavE=
 github.com/jacobsa/go-serial v0.0.0-20180131005756-15cf729a72d4 h1:G2ztCwXov8mRvP0ZfjE6nAlaCX2XbykaeHdbT6KwDz0=
 github.com/jacobsa/go-serial v0.0.0-20180131005756-15cf729a72d4/go.mod h1:2RvX5ZjVtsznNZPEt4xwJXNJrM3VTZoQf7V6gk0ysvs=
 golang.org/x/sys v0.20.0 h1:Od9JTbYCk261bKm4M/mw7AklTlFYIa0bIp9BgSm1S8Y=

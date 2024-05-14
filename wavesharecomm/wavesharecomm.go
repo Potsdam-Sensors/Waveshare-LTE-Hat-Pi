@@ -1,3 +1,6 @@
+/*
+This module facilitates talking to the Waveshare SIM7600-G Hat for Raspberry Pi Zero via serial on /dev/ttyUSB2.
+*/
 package wavesharecomm
 
 import (
